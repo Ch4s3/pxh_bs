@@ -1,0 +1,5 @@
+{
+  "name": "phx_bs",
+  "sources": {"dir": "bucklescript"},
+  "generate-merlin": true
+}
